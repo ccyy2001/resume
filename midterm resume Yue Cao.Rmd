@@ -1,0 +1,62 @@
+---
+title: "resume"
+author: "Yue Cao"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Personal Information
+
+**Name:** Yue Cao\
+**Address:** 2904 S Hillock Ave 304，Chicago，Illinois，USA\
+**Phone:** (312)978-4292\
+**Email:** [ycao48\@uic.edu](mailto:ycao48@uic.edu){.email}\
+**GitHub:** [ycao48\@uic.edu](mailto:ycao48@uic.edu){.email}/ccyy2001\
+
+# Education
+
+**Bachelors in Data Science & Big Data Technology**\
+*North China University of Technology, Beijing, China*\
+- Specialized in Data Science and Big Data Technologies.\
+- Courses: Data Structures, Algorithms, Machine Learning, etc.\
+
+**Master in Science in Civic Analytics**\
+*University of Illinois at Chicago*\
+- Specialized in public data analysis.\
+- Courses: Civic Technology, AI Machine Learning, ADV Data Analysis.\
+
+# Skills
+
+-   Programming Languages: C, C++, R, Python
+-   Data Visualization and Data Processing
+
+# Experience
+
+**Intern - Zhengzhou Survey Team, Zhengzhou, China**\
+- My main job is to participate in the National Civilized City Assessment Project. I am responsible for the writing and copy editing of the report.
+
+# Achievements
+
+-   Second Place in China's National College Entrepreneurship Competition
+
+# Projects
+
+**License Plate Recognition System**\
+- It is a real-time license plate recognition system made with lightweight convolutional neural network. - Tools used: Python.
+
+# Languages
+
+-   Chinese (Native)
+-   English (Fluent)
+
+# Interests
+
+-   Data Science
+-   Big Data
+-   Dance
